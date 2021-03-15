@@ -1,0 +1,18 @@
+{
+    "name": "terrayi/sql-builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Terra Yi",
+            "email": "terrayi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sql\\": "Sql/"
+        }
+    },
+    "require": {},
+    "require-dev": {}
+}
